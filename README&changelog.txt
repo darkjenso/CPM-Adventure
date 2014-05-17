@@ -6,7 +6,16 @@ A Game about the first dust 514 CPM
 
 Changelog
 
-0.2.9 (unreleased, W.I.P.)
+0.3 
+Added in map battle system
+Added battle room with party selector
+Added CCP Dolan battler 
+Added simple battle against Logibro, Saberwing and Dolan
+Door with CCP above teleports to the test battle room
+Battle still needs plenty of custom stuff, still fairly generic
+Moved Cat Merc to test battle room
+
+0.2.9 
 Changed starting avatar to black "unknown" sprite
 Added door controls
 Gave Nova's portrait clothes
