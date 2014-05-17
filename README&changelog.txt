@@ -9,6 +9,12 @@ Changelog
 0.2.9 (unreleased, W.I.P.)
 Changed starting avatar to black "unknown" sprite
 Added door controls
+Gave Nova's portrait clothes
+Introduced the battle system, not ready for testing.
+Added CCP Logibro sprite
+Added CCP Saberwing sprite 
+Added CCP Logibro Battler
+Added CCP Saberwing Battler 
 
 0.2.8
 Fixed collisions with many of the objects
